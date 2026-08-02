@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CyberMartha/Wireshark/blob/main/README.md"> Wireshark Packet Capture Analysis</a>|
 | Phishing Email Analysis         | <a href="https://github.com/CyberMartha/Phishing-Analysis">Phishing</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Malware analysis | SOC Automation Lab|
+| Malware analysis | <a href="github.com/CyberMartha/Malware-Analysis/blob/main/README.md">Malware Analysis</a>|
 
 ## Tools
 
