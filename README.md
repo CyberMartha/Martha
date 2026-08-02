@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CyberMartha/Wireshark/blob/main/README.md"> Wireshark Packet Capture Analysis</a>|
+| Phishing Email Analysis         | <a href="https://github.com/CyberMartha/Phishing-Analysis">Phishing</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Malware analysis | SOC Automation Lab|
 
@@ -58,5 +58,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Malware Analysis
-- Phishing
-- Wireshark Packet Capture Analysis
+- <a href="https://github.com/CyberMartha/Phishing-Analysis">Phishing</a>
+-  <a href="https://github.com/CyberMartha/Wireshark/blob/main/README.md"> Wireshark Packet Capture Analysis</a>
