@@ -57,6 +57,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Malware Analysis
+- <a href="github.com/CyberMartha/Malware-Analysis/blob/main/README.md">Malware Analysis</a>
 - <a href="https://github.com/CyberMartha/Phishing-Analysis">Phishing</a>
 -  <a href="https://github.com/CyberMartha/Wireshark/blob/main/README.md"> Wireshark Packet Capture Analysis</a>
