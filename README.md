@@ -1,13 +1,19 @@
 
-# Hello, I'm Martha
+# Hi, I’m Martha! 👋
 <a href="https://www.linkedin.com/in/martha-irhirhi-70940b25a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My journey into cybersecurity started with a simple curiosity about how systems work and how to protect them, and it quickly turned into a real passion.
+
+Over the past year, I’ve poured myself into mastering the fundamentals: earning both the Google Cybersecurity Professional Certificate and the CompTIA Security+, while spending countless hours on TryHackMe and building hands-on analysis labs. Through that, I’ve built a strong practical foundation in log & SIEM analysis, malware & threat analysis, and incident handling.
+
+But technical skills are only half the story. Living and working as an educator in Japan has made me highly adaptable, a quick learner on the fly, and someone who genuinely loves collaborating with people. In a SOC environment where clear communication during an incident can save hours of downtime, I bridge the gap between technical data and human understanding.
+
+I’m actively seeking a Junior Security Analyst or SOC Level 1 position where I can keep learning, defend real-world networks, and contribute to a collaborative security team!
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Eager to join a growth-focused team as a Junior SOC / Security Analyst to defend networks, learn from experienced mentors, and build a long-term career in cybersecurity.
 
 ## Skills
 
