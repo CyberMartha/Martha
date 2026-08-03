@@ -62,6 +62,6 @@ Eager to join a growth-focused team as a Junior SOC / Security Analyst to defend
 </div>
 
 ## Projects
-- <a href="github.com/CyberMartha/Malware-Analysis/blob/main/README.md">Malware Analysis</a>
+-   <a href="https://github.com/CyberMartha/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/CyberMartha/Phishing-Analysis">Phishing</a>
 -  <a href="https://github.com/CyberMartha/Wireshark/blob/main/README.md"> Wireshark Packet Capture Analysis</a>
