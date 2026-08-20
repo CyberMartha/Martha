@@ -23,7 +23,7 @@ Eager to join a growth-focused team as a Junior SOC / Security Analyst to defend
 | **Network Traffic Monitoring & Attack Detection** | **Threat Intelligence & Forensics** |
 | **Phishing Email Analysis** | **Scripting & Automation** |
 | **Incident Response Planning & Execution** | **SOC Automation Lab** |
-| **Malware Analysis** | **Network & Infrastructure** |
+| **Malware Analysis** | **Active Directory Management** |
 ## Tools
 
 ### Network
