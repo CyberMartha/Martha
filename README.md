@@ -1,6 +1,7 @@
 
 # Hello, I’m Martha! 👋
 <a href="https://www.linkedin.com/in/martha-irhirhi-70940b25a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/irhirhimarthae"><img src="https://img.shields.io/badge/-TryHackMe-222831?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
 
 My journey into cybersecurity started with a simple curiosity about how systems work and how to protect them, and it quickly turned into a real passion.
