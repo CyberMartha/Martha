@@ -48,6 +48,18 @@ Eager to join a growth-focused team as a Junior SOC / Security Analyst to defend
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Operating Systems
+<div>
+   <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Linux-0078D4?&style=for-the-badge&logo=Linux&logoColor=white" />
+</div>
+
+### Languages and Databases
+<div>
+   <img src="https://img.shields.io/badge/-Python-0078D4?&style=for-the-badge&logo=Python&logoColor=white" />
+   <img src="https://img.shields.io/badge/-MySQL-0078D4?&style=for-the-badge&logo=MySQL&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <!-- CompTIA Security+ -->
