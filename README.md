@@ -78,6 +78,7 @@ Eager to join a growth-focused team as a Junior SOC / Security Analyst to defend
 ## Projects
 - <a href="https://github.com/CyberMartha/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/CyberMartha/Data-Exfiltration-DNS-Tunneling-FTP-HTTP-ICMP-/blob/main/README.md">Data Exfiltration</a>
+- <a href="https://github.com/CyberMartha/Man-In-The-Middle/blob/main/README.md">Man-In-The-Middle</a>
 - <a href="https://github.com/CyberMartha/Phishing-Analysis">Phishing Incident Response</a>
 -  <a href="https://github.com/CyberMartha/Wireshark/blob/main/README.md"> Wireshark Packet Capture Analysis</a>
 -  <a href="https://github.com/CyberMartha/Active-Directory-Project/blob/main/README.md "> Enterprise Active Directory Fundamentals Lab </a>
