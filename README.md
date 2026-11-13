@@ -5,13 +5,13 @@
 <a href="https://docs.google.com/document/d/1WlLwacRfqhTbItKK25Z3PoRv9aXdD1Hm-tRXIsJIDdk/edit?usp=drivesdk"><img src="https://img.shields.io/badge/-Resume%2FCV-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/19J5Qxp1yV_lCAZrKDNXklIgKEPZFqjtD2iliVnye224/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume%2FCV-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" /></a>
 
-My journey into cybersecurity started with a simple curiosity about how systems work and how to protect them, and it quickly turned into a real passion.
+My journey into tech and cybersecurity started with a simple curiosity about how systems work and how to protect them, and it quickly turned into a real passion.
 
-Over the past year, I’ve poured myself into mastering the fundamentals: earning both the Google Cybersecurity Professional Certificate and the CompTIA Security+, while spending countless hours on TryHackMe and building hands-on analysis labs. Through that, I’ve built a strong practical foundation in log & SIEM analysis, malware & threat analysis, and incident handling.
+Over the past year, I’ve poured myself into mastering the fundamentals: earning the Google IT Support, Google Cybersecurity, and CompTIA Security+ certifications, while spending countless hours on TryHackMe and building hands-on labs. Through that, I’ve built a strong practical foundation in system administration, Active Directory fundamentals, network troubleshooting, and log analysis.
 
-But technical skills are only half the story. Living and working as an educator in Japan has made me highly adaptable, a quick learner on the fly, and someone who genuinely loves collaborating with people. In a SOC environment where clear communication during an incident can save hours of downtime, I bridge the gap between technical data and human understanding.
+But technical skills are only half the story. Living and working as an educator in Japan has made me highly adaptable, a quick learner on the fly, and someone who genuinely loves collaborating with people. Whether resolving user issues or communicating clearly during a high-pressure scenario, I bridge the gap between technical infrastructure and human understanding.
 
-I’m actively seeking a Junior Security Analyst or SOC Level 1 position where I can keep learning, defend real-world networks, and contribute to a collaborative security team!
+I’m actively seeking a Junior Security Analyst, IT Support, or Helpdesk position where I can keep learning, support real-world systems, and contribute to a collaborative team!
 
 ## Objective
 
