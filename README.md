@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/martha-irhirhi-70940b25a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/irhirhimarthae"><img src="https://img.shields.io/badge/-TryHackMe-222831?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/1WlLwacRfqhTbItKK25Z3PoRv9aXdD1Hm-tRXIsJIDdk/edit?usp=drivesdk"><img src="https://img.shields.io/badge/-Resume%2FCV-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" /></a>
-
+<a href="https://docs.google.com/document/d/19J5Qxp1yV_lCAZrKDNXklIgKEPZFqjtD2iliVnye224/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume%2FCV-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" /></a>
 
 My journey into cybersecurity started with a simple curiosity about how systems work and how to protect them, and it quickly turned into a real passion.
 
